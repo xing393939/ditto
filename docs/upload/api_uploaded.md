@@ -1,22 +1,17 @@
-分段上传接口（post跨域）
-----------
+#### 分段上传接口（post跨域）
 
-接口地址
-----------
+#### 接口地址
   * 正式接口：http://ppyun.ugc.upload.pptv.com/php/api_uploaded.php?ppfeature=xx&fid=xx&start=xx&end=xx
-请求body说明
-----------
+#### 请求body说明
 文件二进制
-返回示例
-----------
+#### 返回示例
 ```javascript
 {
     "err": 0
 }
 ```
 
-返回结果说明
-----------
+#### 返回结果说明
 ```javascript
 ...
 ```

@@ -1,18 +1,14 @@
-单个举报视频详情接口（get请求）
-----------
+#### 单个举报视频详情接口（get请求）
 
-接口地址
-----------
+#### 接口地址
   * 测试接口：http://172.16.0.105/pptv3/public/index.php/reportvideo/reportvideo/info
   * 正式接口：http://admin.cloud.pptv.com/public/index.php/reportvideo/reportvideo/info
 
-请求参数说明
-----------
+#### 请求参数说明
 |  参数         |说明          |是否必选|
 | ------------- |:-------------|:-----:|
 | id      | 举报id |必选|
-返回示例
-----------
+#### 返回示例
 ```javascript
 {
     "data": {
@@ -44,8 +40,7 @@
 }
 ```
 
-返回结果说明
-----------
+#### 返回结果说明
 ```javascript
 fid  文件ID
 videoName：视频名称

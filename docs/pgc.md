@@ -1,5 +1,4 @@
-用户
-----------
+#### 用户
 
   - [用户登录接口](#docs/pgc/login) 
   - [用户退出接口](#docs/pgc/logout)
@@ -7,8 +6,7 @@
   - [用户银行卡账户信息接口](#docs/pgc/account_info) 
   - [获取用户是否登录接口](#docs/pgc/login_status)
 
-视频
-----------
+#### 视频
 
   - [获取用户视频接口](#docs/pgc/video_list)
   - [获取用户专辑接口](#docs/pgc/album_list)
@@ -18,16 +16,14 @@
   - [转移视频到某专辑接口](#docs/pgc/video_move_to_album) 未使用
   - [保存视频接口](#docs/pgc/video_save_channel)
 
-分成收益
-----------
+#### 分成收益
 
   - [分成明细列表接口](#docs/pgc/income) 
   - [提现前账号收益信息接口](#docs/pgc/income_info) 
   - [申请提现接口](#docs/pgc/apply_for_cash) 
   - [提现日志列表接口](#docs/pgc/withdraw_list)
 
-统计
-----------
+#### 统计
 
   - [视频折线图统计接口](#docs/pgc/video-line-chart) 
   - [用户视频列表接口](#docs/pgc/video-list) 
@@ -38,8 +34,7 @@
   - [分类栏目占比接口](#docs/pgc/category-ratio) 
   - [分类栏目占比三个总数接口](#docs/pgc/category-summary-data)
 
-留言&消息
-----------
+#### 留言&消息
 
   - [用户留言接口](#docs/pgc/public-leave-message) 
   - [未读消息数接口](#docs/pgc/message-unread)

@@ -1,5 +1,4 @@
-第三方获取token的php示例
-----------
+#### 第三方获取token的php示例
 在使用pp云无插件上传的JS库之前，需要先从后端请求接口获取上传的token供js使用\\
 ```javascript
 <?php
