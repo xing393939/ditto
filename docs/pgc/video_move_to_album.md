@@ -15,19 +15,19 @@
 | series_id      | 专辑id |可选    |
 返回示例
 ----------
-<pre>
+```javascript
 {
     "data": null,
     "err": 105004,
     "msg": "udpateUserChannel failure: series epg category deffrence: 71  "
 }
-</pre>
+```
 
 返回结果说明
 ----------
-<pre>
+```javascript
 ...
 
 用到的pgc接口：
 5.9编辑视频信息
-</pre>
+```

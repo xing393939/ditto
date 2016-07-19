@@ -17,7 +17,7 @@
 
 返回示例
 ----------
-<pre>
+```javascript
 {
     "data": [
         {
@@ -32,13 +32,13 @@
     "totalRecords": 66,
     "currentPageNO": "1"
 }
-</pre>
+```
 
 返回结果说明
 ----------
-<pre>
+```javascript
 word    关键字
 level   等级
 id      自增id
 lastModified  最后修改时间
-</pre>
+```

@@ -13,7 +13,7 @@
 
 返回示例
 ----------
-<pre>
+```javascript
 {
     "err": 0,
     "msg": "success",
@@ -47,10 +47,10 @@
         "spaceStatusStr": "0/1000G"
     }
 }
-</pre>
+```
 
 返回结果说明
 ----------
-<pre>
+```javascript
 siteName：公司名称
-</pre>
+```

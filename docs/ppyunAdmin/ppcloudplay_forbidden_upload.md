@@ -15,12 +15,12 @@
 
 返回示例
 ----------
-<pre>
+```javascript
 <script>parent.callback('{"code": 0,"message": 'success',"data": null}')</script>
-</pre>
+```
 
 返回结果说明
 ----------
-<pre>
+```javascript
 ....
-</pre>
+```

@@ -13,7 +13,7 @@
 | pagesize      | 每页条数，默认为10 |可选    |
 返回示例
 ----------
-<pre>
+```javascript
 {
     "err": 0,
     "msg": "success",
@@ -77,14 +77,14 @@
     ],
     "totalnum": 49
 }
-</pre>
+```
 
 返回结果说明
 ----------
-<pre>
+```javascript
 createTime：创建时间
 violation：违规标签
 censored：1已屏蔽的，0正常的
 reviewer: 屏蔽操作人
 reviewResult: 屏蔽原因
-</pre>
+```

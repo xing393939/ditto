@@ -14,7 +14,7 @@
 
 返回示例
 ----------
-<pre>
+```javascript
 {
     "data": {
         "userName": "meili13@pptv.com",
@@ -30,10 +30,10 @@
     "message": "success",
     "code": 0
 }
-</pre>
+```
 
 返回结果说明
 ----------
-<pre>
+```javascript
 
-</pre>
+```

@@ -12,7 +12,7 @@
 
 返回示例
 ----------
-<pre>
+```javascript
 {
     "err": 0,
     "msg": "success",
@@ -21,10 +21,10 @@
         "space_price": 8.4
     }
 }
-</pre>
+```
 
 返回结果说明
 ----------
-<pre>
+```javascript
 ..
-</pre>
+```

@@ -20,7 +20,7 @@
 | pagesize      | 每页条数，默认为10 |可选    |
 返回示例
 ----------
-<pre>
+```javascript
 {
     "data": [
         {
@@ -52,11 +52,11 @@
     "err": 0,
     "totalnum": 623
 }
-</pre>
+```
 
 返回结果说明
 ----------
-<pre>
+```javascript
 用到的java接口：
 2.124	查询直播监控信息
 
@@ -65,4 +65,4 @@
 "modeStr": 直播类型
 "timeLimitStr": 即时/24小时
 "liveStatusStr": 直播状态
-</pre>
+```

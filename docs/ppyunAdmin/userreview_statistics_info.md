@@ -16,7 +16,7 @@
 | endtime      | 结束时间 |可选    |
 返回示例
 ----------
-<pre>
+```javascript
 {
     "data": {
         "userName": "timxu@pplive.com",
@@ -50,11 +50,11 @@
     "message": "请求成功",
     "code": 0
 }
-</pre>
+```
 
 返回结果说明
 ----------
-<pre>
+```javascript
 "starttime": 开始时间
 "endtime": 结束时间
 "totalSpace": 空间
@@ -62,4 +62,4 @@
 "totalFlow": 流量
 "totalFlowFee": 流量费用
 "totalFee": 总费用
-</pre>
+```

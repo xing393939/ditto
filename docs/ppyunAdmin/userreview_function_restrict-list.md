@@ -13,7 +13,7 @@
 
 返回示例
 ----------
-<pre>
+```javascript
 {
     "data": [
         {
@@ -39,10 +39,10 @@
     "err": 0,
     "totalnum": 3
 }
-</pre>
+```
 
 返回结果说明
 ----------
-<pre>
+```javascript
 
-</pre>
+```

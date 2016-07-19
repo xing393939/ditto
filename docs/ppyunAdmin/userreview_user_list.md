@@ -20,7 +20,7 @@
 
 返回示例
 ----------
-<pre>
+```javascript
 {
     "data": [
         {
@@ -61,11 +61,11 @@
     "currentPageNO": "1",
     "totalRecords": 205
 }
-</pre>
+```
 
 返回结果说明
 ----------
-<pre>
+```javascript
 "userName": 用户名
 "contactName": 联系人
 "siteName": 网站名称
@@ -74,4 +74,4 @@
 "vocationNameChinese": 行业
 "vocation": 行业id
 "isPaidStr": 用户类型
-</pre>
+```

@@ -1,7 +1,7 @@
 第三方获取token的php示例
 ----------
 在使用pp云无插件上传的JS库之前，需要先从后端请求接口获取上传的token供js使用\\
-<pre>
+```javascript
 <?php
 function send_post($url, array $post_data = array())
 {
@@ -33,4 +33,4 @@ $arr = json_decode(send_post($url, $post_data), true);
 <body>
 </body>
 </html>
-</pre>
+```

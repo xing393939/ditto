@@ -14,7 +14,7 @@
 | pagesize      | 每页条数，默认为10 |可选    |
 返回示例
 ----------
-<pre>
+```javascript
 {
     "data": [
         {
@@ -33,15 +33,15 @@
     "err": 0,
     "totalnum": 38
 }
-</pre>
+```
 
 返回结果说明
 ----------
-<pre>
+```javascript
 "time": 时间
 "upStreamSpeed": 上行推流速度/kbps
 "downViewCount": 下行观看人数
 "downLagCount": 下行卡顿人数
 "downLagRate": 下行卡顿率/%
 "avgLagTime": 平均卡顿时间（s）
-</pre>
+```

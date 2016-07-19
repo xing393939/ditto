@@ -20,7 +20,7 @@
 
 返回示例
 ----------
-<pre>
+```javascript
 {
     "data": {
         "id": 39612,
@@ -56,13 +56,13 @@
     "err": 0,
     "msg": "addUserChannel success"
 }
-</pre>
+```
 
 返回结果说明
 ----------
-<pre>
+```javascript
 ...
 
 用到的pgc接口：
 5.8上传视频
-</pre>
+```

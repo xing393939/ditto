@@ -12,7 +12,7 @@
 | id      | 视频id |可选    |
 返回示例
 ----------
-<pre>
+```javascript
 {
     "err": 0,
     "msg": "success",
@@ -76,10 +76,10 @@
         "tagStr": "科教频道"
     }
 }
-</pre>
+```
 
 返回结果说明
 ----------
-<pre>
+```javascript
 duration: 播放时长
-</pre>
+```

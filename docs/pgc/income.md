@@ -17,7 +17,7 @@
 | pagesize      | 每页条数，默认为10 |可选    |
 返回示例
 ----------
-<pre>
+```javascript
 {
     "data": [
         {
@@ -30,13 +30,13 @@
     "msg": "success",
     "totalnum": 3
 }
-</pre>
+```
 
 返回结果说明
 ----------
-<pre>
+```javascript
 ...
 
 用到pgc的接口：
 5.21待支付列表/提现日志列表
-</pre>
+```

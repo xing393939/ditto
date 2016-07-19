@@ -1,4 +1,4 @@
-<pre>
+```javascript
 列表api:forbidden/query
 传参：
 word 关键字
@@ -18,4 +18,4 @@ level 等级
 传参：
 word 关键字
 （删除多个用半角逗号隔开）
-</pre>
+```

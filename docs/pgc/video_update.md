@@ -18,7 +18,7 @@
 | channelsummary     | 视频描述 |可选    |
 返回示例
 ----------
-<pre>
+```javascript
 {
     "data": {
         "id": 39035,
@@ -68,13 +68,13 @@
     "err": 0,
     "msg": "udpateUserChannel success"
 }
-</pre>
+```
 
 返回结果说明
 ----------
-<pre>
+```javascript
 ...
 
 用到的pgc接口：
 5.9编辑视频信息
-</pre>
+```

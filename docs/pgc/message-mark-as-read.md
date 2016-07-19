@@ -14,19 +14,19 @@
 | relationids        | relationids |必选    |
 返回示例
 ----------
-<pre>
+```javascript
 {
     "data": [],
     "err": 0,
     "msg": "success"
 }
-</pre>
+```
 
 返回结果说明
 ----------
-<pre>
+```javascript
 ...
 
 用到pgc的接口：
 ...
-</pre>
+```

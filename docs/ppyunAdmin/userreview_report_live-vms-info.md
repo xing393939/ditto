@@ -12,7 +12,7 @@
 | channelid      | 视频id |可选    |
 返回示例
 ----------
-<pre>
+```javascript
 {
     "err": 0,
     "msg": "success",
@@ -38,11 +38,11 @@
         "publishUrl": "rtmp://xxx"
     }
 }
-</pre>
+```
 
 返回结果说明
 ----------
-<pre>
+```javascript
 2.125	查询直播监控VMS信息
 
 "pushStreamStatus": //DC推流状态(针对推流方式)
@@ -63,4 +63,4 @@
 "rtmpgateIp": //拉流服务器IP
 "vmsServerIp": //推流时边缘服务器IP
 "publishUrl": //推流地址或第三方流地址
-</pre>
+```

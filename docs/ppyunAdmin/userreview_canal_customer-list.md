@@ -19,7 +19,7 @@
 | pagesize      | 每页条数，默认为10 |可选    |
 返回示例
 ----------
-<pre>
+```javascript
 {
     "data": [
         {
@@ -87,15 +87,15 @@
     "err": 0,
     "totalnum": 280
 }
-</pre>
+```
 
 返回结果说明
 ----------
-<pre>
+```javascript
 "userCanalType": 0终端，1渠道，2渠道客
 "userCanalTypeStr": 用户类型
 "canalUserName": 所属渠道商
 "trafficUsedOfTen": 10天累计使用流量
 "canalTypeStr": 渠道分类
 "customerNum": 12 渠道客数量
-</pre>
+```

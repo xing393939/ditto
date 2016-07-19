@@ -14,7 +14,7 @@
 | ppfeature   | 文件特征码 |必选    |
 返回示例
 ----------
-<pre>
+```javascript
 {
     "data": {
         "nextUrl": "http://ppyun.ugc.upload.pptv.com/php/uploadRange.php?token=x&fid=x&ppfeature=x&start=0&end=0",
@@ -25,13 +25,13 @@
     "err": 0,
     "msg": "success"
 }
-</pre>
+```
 
 返回结果说明
 ----------
-<pre>
+```javascript
 用到云盘的接口：
 1.1.3	获得上传范围v2
 1.1.5	提交md5
 1.1.6	提交额外特征
-</pre>
+```

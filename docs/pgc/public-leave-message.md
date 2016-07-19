@@ -15,19 +15,19 @@
 | dialog_content        | 内容 |必选    |
 返回示例
 ----------
-<pre>
+```javascript
 {
     err: "0",
     msg: "success",
     data: ""
 }
-</pre>
+```
 
 返回结果说明
 ----------
-<pre>
+```javascript
 ...
 
 用到pgc的接口：
 5.59	新增留言
-</pre>
+```

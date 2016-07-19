@@ -13,16 +13,16 @@
 | user_id      | user_id |可选    |
 返回示例
 ----------
-<pre>
+```javascript
 {
     "err": 0,
     "msg": "success",
     "data": []
 }
-</pre>
+```
 
 返回结果说明
 ----------
-<pre>
+```javascript
 
-</pre>
+```

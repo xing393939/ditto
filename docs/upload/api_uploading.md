@@ -13,7 +13,7 @@
 | ppfeature   | 文件特征码 |必选    |
 返回示例
 ----------
-<pre>
+```javascript
 {
     "data": {
         "status": 0,
@@ -26,10 +26,10 @@
     },
     "err": 0
 } 
-</pre>
+```
 
 返回结果说明
 ----------
-<pre>
+```javascript
 ...
-</pre>
+```

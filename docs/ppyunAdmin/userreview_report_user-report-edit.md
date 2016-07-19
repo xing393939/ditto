@@ -14,16 +14,16 @@
 | reason| 故障原因  |可选    |
 返回示例
 ----------
-<pre>
+```javascript
 {
     "err": 0,
     "msg": "success",
     "data": []
 }
-</pre>
+```
 
 返回结果说明
 ----------
-<pre>
+```javascript
 2.119	修改用户上报
-</pre>
+```

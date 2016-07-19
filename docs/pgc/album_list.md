@@ -19,7 +19,7 @@
 | pagesize      | 每页条数，默认为10 |可选    |
 返回示例
 ----------
-<pre>
+```javascript
 {
     "data": [
         {
@@ -43,13 +43,13 @@
     "msg": null,
     "totalnum": 4
 }
-</pre>
+```
 
 返回结果说明
 ----------
-<pre>
+```javascript
 ...
 
 用到pgc的接口
 5.33专辑列表
-</pre>
+```

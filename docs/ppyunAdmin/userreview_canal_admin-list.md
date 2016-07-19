@@ -12,7 +12,7 @@ admin管理员列表接口
 
 返回示例
 ----------
-<pre>
+```javascript
 {
     "err": 0,
     "msg": "success",
@@ -30,10 +30,10 @@ admin管理员列表接口
     ],
     "totalnum": 10
 }
-</pre>
+```
 
 返回结果说明
 ----------
-<pre>
+```javascript
 ...
-</pre>
+```

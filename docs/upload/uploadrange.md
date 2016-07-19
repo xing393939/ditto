@@ -9,7 +9,7 @@
 文件二进制
 返回示例
 ----------
-<pre>
+```javascript
 {
     "data": {
         "nextUrl": "http://ppyun.ugc.upload.pptv.com/php/getRange.php"
@@ -17,13 +17,13 @@
     "err": 0,
     "msg": "success"
 }
-</pre>
+```
 
 返回结果说明
 ----------
-<pre>
+```javascript
 用到swift的接口：
 sw3.pplive.cn
 用到云盘的接口：
 1.1.9	分段上传完成汇报V2
-</pre>
+```

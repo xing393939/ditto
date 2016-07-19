@@ -17,17 +17,17 @@
 | files[]   | 文件二进制 |必选    |
 返回示例
 ----------
-<pre>
+```javascript
 {
     "data": {
         "ppFeature": "26246060_8b93e130b52fb8be96f16b1d0b3df040ffddfaf5"
     },
     "err": 0
 }
-</pre>
+```
 
 返回结果说明
 ----------
-<pre>
+```javascript
 ...
-</pre>
+```

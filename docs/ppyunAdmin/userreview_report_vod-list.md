@@ -20,7 +20,7 @@
 | pagesize      | 每页条数，默认为10 |可选    |
 返回示例
 ----------
-<pre>
+```javascript
 {
     "data": [
         {
@@ -50,11 +50,11 @@
     "err": 0,
     "totalnum": 1
 }
-</pre>
+```
 
 返回结果说明
 ----------
-<pre>
+```javascript
 2.128	查询点播监控信息
 
 "duration": 时长
@@ -62,4 +62,4 @@
 "transcodeStatusStr": 压制状态
 "channelTypeStr": 视频类型：直播/点播/直转点
 "md5ListStr": 成片MD5
-</pre>
+```

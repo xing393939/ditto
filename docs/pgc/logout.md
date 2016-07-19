@@ -13,19 +13,19 @@
 | userName      | 用户名 |必选    |
 返回示例
 ----------
-<pre>
+```javascript
 {
     "data": [],
     "err": 0,
     "msg": "退出成功"
 }
-</pre>
+```
 
 返回结果说明
 ----------
-<pre>
+```javascript
 ...
 
 用到pgc的接口：
 无
-</pre>
+```

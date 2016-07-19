@@ -19,16 +19,16 @@
 
 返回示例
 ----------
-<pre>
+```javascript
 {
     "err": 0,
     "data": "http://grocery.pptv.com/lpic/dcf/daa/0c9/a767e3c7439499706dbda1ef8e6bdcd2.png"
 }
-</pre>
+```
 
 返回结果说明
 ----------
-<pre>
+```javascript
 用到的接口：
 http://api.grocery.pptv.com/upload_file.php（曹铮）
-</pre>
+```

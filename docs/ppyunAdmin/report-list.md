@@ -19,7 +19,7 @@
 
 返回示例
 ----------
-<pre>
+```javascript
 {
     "data": [
         {
@@ -41,11 +41,11 @@
     "totalRecords": 66,
     "currentPageNO": "1"
 }
-</pre>
+```
 
 返回结果说明
 ----------
-<pre>
+```javascript
 fid  文件ID
 videoName：视频名称
 status: 处理状态
@@ -54,4 +54,4 @@ reportType: 举报类型
 reportExplain: 举报说明
 reportDesc: 举报来源
 userName: 举报用户
-</pre>
+```

@@ -21,7 +21,7 @@
 | pagesize      | 每页条数，默认为10 |可选    |
 返回示例
 ----------
-<pre>
+```javascript
 {
     "data": [
         {
@@ -54,11 +54,11 @@
     "err": 0,
     "totalnum": 1
 }
-</pre>
+```
 
 返回结果说明
 ----------
-<pre>
+```javascript
 用到的java接口
 2.120	查询用户上报
 
@@ -79,4 +79,4 @@
 "channelTypeStr": 视频类型
 "statusStr": 处理状态：未处理/处理中/处理完成
 "contactTypeStr": 联系方式
-</pre>
+```

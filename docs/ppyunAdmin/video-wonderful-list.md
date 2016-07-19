@@ -19,7 +19,7 @@
 | pagesize      | 每页条数，默认为10 |可选    |
 返回示例
 ----------
-<pre>
+```javascript
 {
     "err": 0,
     "msg": "success",
@@ -75,10 +75,10 @@
     ],
     "totalnum": 46
 }
-</pre>
+```
 
 返回结果说明
 ----------
-<pre>
+```javascript
 duration: 播放时长
-</pre>
+```

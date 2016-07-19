@@ -13,7 +13,7 @@
 | userName   | 用户名，可以传空 |必选    |
 返回示例
 ----------
-<pre>
+```javascript
 {
     "data": {
         "username": "wengjiawei9"
@@ -21,13 +21,13 @@
     "err": 0,
     "msg": "success"
 }
-</pre>
+```
 
 返回结果说明
 ----------
-<pre>
+```javascript
 ...
 
 用到pgc的接口：
 无
-</pre>
+```

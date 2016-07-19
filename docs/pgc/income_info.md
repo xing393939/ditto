@@ -13,7 +13,7 @@
 | userName      | 用户名 |必选    |
 返回示例
 ----------
-<pre>
+```javascript
 {
     "data": {
         "amount": 330,
@@ -24,13 +24,13 @@
     "err": 0,
     "msg": "success"
 }
-</pre>
+```
 
 返回结果说明
 ----------
-<pre>
+```javascript
 withdraw_auth：1可以提现，0不能提现
 
 用到的pgc接口：
 5.23获取账户信息
-</pre>
+```

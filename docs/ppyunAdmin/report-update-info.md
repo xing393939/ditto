@@ -17,16 +17,16 @@
 
 返回示例
 ----------
-<pre>
+```javascript
 {
     "code": 0,
     "message": 'success',
     "data": null
 }
-</pre>
+```
 
 返回结果说明
 ----------
-<pre>
+```javascript
 ....
-</pre>
+```

@@ -13,7 +13,7 @@
 | id      | 举报id |必选|
 返回示例
 ----------
-<pre>
+```javascript
 {
     "data": {
         "fid": 31507,
@@ -42,11 +42,11 @@
     "message": "success",
     "code": 0
 }
-</pre>
+```
 
 返回结果说明
 ----------
-<pre>
+```javascript
 fid  文件ID
 videoName：视频名称
 status: 处理状态
@@ -59,4 +59,4 @@ playingUrl: 播放地址
 videoTimeLength: 播放时长，秒为单位
 failedReason: 失败原因列表
 lastOperation: 最后一次审核操作信息
-</pre>
+```

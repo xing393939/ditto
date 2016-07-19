@@ -18,7 +18,7 @@
 | pagesize      | 每页条数，默认为10 |可选    |
 返回示例
 ----------
-<pre>
+```javascript
 {
     "data": [
         {
@@ -53,10 +53,10 @@
     "err": 0,
     "totalnum": 38
 }
-</pre>
+```
 
 返回结果说明
 ----------
-<pre>
+```javascript
 ...
-</pre>
+```

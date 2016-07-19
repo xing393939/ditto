@@ -15,7 +15,7 @@
 
 返回示例
 ----------
-<pre>
+```javascript
 {
     "data": {
         "nextUrl": "http://ppyun.ugc.upload.pptv.com/php/initUpload.php",
@@ -25,11 +25,11 @@
     "err": 0,
     "msg": "success"
 }
-</pre>
+```
 
 返回结果说明
 ----------
-<pre>
+```javascript
 用到PP云对外接口：
 2.2.18 获取带token的图片上传url（段准）
-</pre>
+```

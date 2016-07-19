@@ -12,7 +12,7 @@
 | channelid      | 视频id |可选    |
 返回示例
 ----------
-<pre>
+```javascript
 {
     "err": 0,
     "msg": "success",
@@ -75,13 +75,13 @@
         "msgflash": "http://player.pptvyun.ppqa.com/svc/flashplayer/pl/0a2dnqyaqKmloauL4K2hnajhoaChoquV.swf"
     }
 }
-</pre>
+```
 
 返回结果说明
 ----------
-<pre>
+```javascript
 用到的java接口：
 2.26	获取视频信息
 
 msgflash: 播放swf地址
-</pre>
+```

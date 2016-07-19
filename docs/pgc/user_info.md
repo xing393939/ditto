@@ -13,7 +13,7 @@
 | userName      | 用户名 |必选    |
 返回示例
 ----------
-<pre>
+```javascript
 {
     "data": {
         "id": 86,
@@ -44,11 +44,11 @@
     "err": 0,
     "msg": "getPgcUserInfo success"
 }
-</pre>
+```
 
 返回结果说明
 ----------
-<pre>
+```javascript
 "userName": 用户名
 "type": 类型，0个人，1公司
 "name": 真实姓名
@@ -64,4 +64,4 @@
 
 用到pgc的接口：
 5.5获取用户基本资料
-</pre>
+```

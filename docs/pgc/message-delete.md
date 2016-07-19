@@ -14,19 +14,19 @@
 | relationids | 消息id，多个用逗号隔开 |必选    |
 返回示例
 ----------
-<pre>
+```javascript
 {
     "data": [],
     "err": 0,
     "msg": "success"
 }
-</pre>
+```
 
 返回结果说明
 ----------
-<pre>
+```javascript
 ...
 
 用到pgc的接口：
 5.64	更新商户端消息(删除/已读状态)
-</pre>
+```

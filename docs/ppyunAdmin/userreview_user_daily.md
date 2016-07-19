@@ -18,7 +18,7 @@
 
 返回示例
 ----------
-<pre>
+```javascript
 {
     "data": [
         {
@@ -34,13 +34,13 @@
     "currentPageNO": "1",
     "totalRecords": 205
 }
-</pre>
+```
 
 返回结果说明
 ----------
-<pre>
+```javascript
 "space": 空间,
 "spacefee": 空间费用,
 "flow": 流量,
 "flowfee": 流量费用
-</pre>
+```

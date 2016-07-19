@@ -14,7 +14,7 @@
 
 返回示例
 ----------
-<pre>
+```javascript
 {
     "err": 0,
     "msg": "success",
@@ -22,10 +22,10 @@
         "price": 15.3
     }
 }
-</pre>
+```
 
 返回结果说明
 ----------
-<pre>
+```javascript
 ..
-</pre>
+```

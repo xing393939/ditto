@@ -14,7 +14,7 @@
 | ids        | 视频主键id, 以逗号分隔 (注意是主键id,不是channelid) |必选    |
 返回示例
 ----------
-<pre>
+```javascript
 {
     "data": [
         {
@@ -25,13 +25,13 @@
     "err": 0,
     "msg": "deleteUserChannel success"
 }
-</pre>
+```
 
 返回结果说明
 ----------
-<pre>
+```javascript
 ...
 
 用到的pgc接口：
 5.16视频删除接口
-</pre>
+```

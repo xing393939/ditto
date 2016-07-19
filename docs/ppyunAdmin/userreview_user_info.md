@@ -13,7 +13,7 @@
 
 返回示例
 ----------
-<pre>
+```javascript
 {
     "err": 0,
     "msg": "success",
@@ -49,11 +49,11 @@
         "licensePic": "http://grocery.pptv.com/lpic/d53/f5f/cf6/dc50589bf10bdd0369b61d00d2d8a02f.png"
     }
 }
-</pre>
+```
 
 返回结果说明
 ----------
-<pre>
+```javascript
 "siteName"：公司名称
 "license_pic": 营业执照图片地址
-</pre>
+```

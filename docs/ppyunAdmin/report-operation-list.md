@@ -13,7 +13,7 @@
 | id      | 举报id |必选|
 返回示例
 ----------
-<pre>
+```javascript
 {
     "data": [
         {
@@ -28,13 +28,13 @@
     "message": "success",
     "code": 0
 }
-</pre>
+```
 
 返回结果说明
 ----------
-<pre>
+```javascript
     username: 操作人员
     video_category: 视频分类
     review_result: 审核结果
     created_at: 操作时间
-</pre>
+```

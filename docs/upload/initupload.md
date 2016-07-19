@@ -19,7 +19,7 @@
 
 返回示例
 ----------
-<pre>
+```javascript
 {
     "data": {
         "nextUrl": "http://ppyun.ugc.upload.pptv.com/php/getRange.php",
@@ -31,11 +31,11 @@
     "err": 0,
     "msg": "success"
 }
-</pre>
+```
 
 返回结果说明
 ----------
-<pre>
+```javascript
 用到PP云的对外接口：
 2.2.6 上传点播视频接口
-</pre>
+```

@@ -14,16 +14,16 @@
 
 返回示例
 ----------
-<pre>
+```javascript
 {
     "err": 0,
     "msg": "success",
     "data": []
 }
-</pre>
+```
 
 返回结果说明
 ----------
-<pre>
+```javascript
 2.107	 编辑菜单权限限制项
-</pre>
+```

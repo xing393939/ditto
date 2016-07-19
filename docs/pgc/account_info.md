@@ -13,7 +13,7 @@
 | userName      | 用户名 |必选    |
 返回示例
 ----------
-<pre>
+```javascript
 {
     "data": {
         "id": 186,
@@ -38,11 +38,11 @@
     "err": 0,
     "msg": "success"
 }
-</pre>
+```
 
 返回结果说明
 ----------
-<pre>
+```javascript
 "status": 0是未审核 200是审核通过
 "bankName": 开户银行
 "subBranch": 支行名称
@@ -52,4 +52,4 @@
 
 用到pgc的接口
 5.18获取用户卡号
-</pre>
+```

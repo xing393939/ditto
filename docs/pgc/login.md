@@ -13,7 +13,7 @@
 | userPwd        | 用户password |必选    |
 返回示例
 ----------
-<pre>
+```javascript
 {
     err: "0",
     msg: "success",
@@ -23,13 +23,13 @@
         PPKey: "UkQiEJX28TQP%2BoIdrN5sF0%2FdUfXhXefUp6q1UpN5EXO1ZHQsExQRcicJkT5fqo3xWZl0jiSY1mm%2BdiIN1NCakwFaChuzw8tZJp2rXoAcL9m0yKrAf0moqJq6Usgd%2FQHd5Epgfxuzd%2BqVwXKrKbas9O4X8JbzSkCG"
     }
 }
-</pre>
+```
 
 返回结果说明
 ----------
-<pre>
+```javascript
 ...
 
 用到pgc的接口：
 ...
-</pre>
+```
