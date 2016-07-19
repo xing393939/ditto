@@ -34,13 +34,33 @@
 
     <!-- DITTO -->
     <link rel="stylesheet" href="css/ditto.css">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/doc.css">
     <script src="js/ditto.js"></script>
 
 </head>
 <body>
     <!-- ESSENTIAL -->
-    <div id="sidebar"></div>
-    <div id="content"></div>
+    <div id="md-main-navbar" class="navbar navbar-default navbar-fixed-top" role="navigation">
+        <div class="container">
+            <div class="navbar-header"><a href="#" class="navbar-brand">MDwiki</a></div>
+            <div class="collapse navbar-collapse navbar-ex1-collapse" id="sidebar">
+
+            </div>
+        </div>
+    </div>
+    <div id="md-body-container" class="container">
+        <div id="md-body-row" class="row">
+            <div id="md-body" style="margin-top: 70px;">
+                <div id="md-menu-container" class="container"><div id="md-menu-row" class="row"></div></div>
+                <div id="content"></div>
+            </div>
+        </div>
+    </div>
+    <footer style="position: relative; margin-top: 1em;">
+        <p class="text-center">FIFSKY <a href="http://www.mdwiki.info">MDwiki</a> &copy; 2015</p>
+    </footer>
+
     <div id="hide"></div>
 
     <!-- OPTIONAL -->
