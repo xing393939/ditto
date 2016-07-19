@@ -2,8 +2,10 @@
 
 #### 接口地址
   * 正式接口：http://ppyun.ugc.upload.pptv.com/php/api_uploaded.php?ppfeature=xx&fid=xx&start=xx&end=xx
+
 #### 请求body说明
 文件二进制
+
 #### 返回示例
 ```javascript
 {
