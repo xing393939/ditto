@@ -21,6 +21,30 @@ body,button, input, select, textarea,h1 ,h2, h3, h4, h5, h6 { font-family: Micro
     color: #777;
 }
 
+#content table {
+    width: 100%;
+    border: 1px solid #ddd;
+    border-collapse: collapse;
+}
+
+#content table td, #content table th {
+    border: 1px solid #ddd;
+    border-collapse: collapse;
+    padding: 5px;
+}
+
+#content table th:nth-child(1) {
+    width: 20%;
+}
+
+#content table th:nth-child(2) {
+    width: 60%;
+}
+
+#content table th:nth-child(3) {
+    width: 20%;
+}
+
 #back_to_top {
     display: none;
     position: fixed;
