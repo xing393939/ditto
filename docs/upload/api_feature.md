@@ -1,7 +1,7 @@
 #### 获取ppFeature（post跨域）
 
 #### 接口地址
-  * 正式接口：http://ppyun.ugc.upload.pptv.com/php/api_feature.php
+  * 正式接口：/php/api_feature.php
 
 #### 请求参数说明
 |  参数         |说明          |是否必选|

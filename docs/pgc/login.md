@@ -1,7 +1,7 @@
 #### 用户登录接口
 
 #### 接口地址
-  * 正式接口：http://api.pptvyun.com/pgc/api/account/list/login
+  * 正式接口：/pgc/api/account/list/login
 
 #### 请求参数说明
 |  参数         |说明          |是否必选|
